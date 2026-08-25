@@ -1,13 +1,6 @@
-{:company/gleif-note "registry facts from GLEIF (https://api.gleif.org/api/v1/lei-records/259400VVMM70CQREJT74), retrieved 2026-08-25 by scripts/lei-gleif-ingest.cljs (GET only)"
- :company/inquiry-form-url "https://www.orlen.pl/pl/kontakt/dla-biznesu"
- :company/jurisdiction "PL"
- :company/legal-address "PŁOCK CHEMIKÓW 7, 09-411, PŁOCK, PL-14, PL"
- :company/legal-form-elf "FJ0E"
- :company/legal-jurisdiction "PL"
- :company/legal-name "ORLEN SPÓŁKA AKCYJNA"
- :company/legal-name-transliterated "ORLEN SPOLKA AKCYJNA"
+{:company/legal-name "ORLEN SPÓŁKA AKCYJNA"
  :company/lei "259400VVMM70CQREJT74"
- :company/lei-status "ISSUED"
- :company/postal-address "PŁOCK CHEMIKÓW 7, 09-411, PŁOCK, PL-14, PL"
- :company/registration-number "0000028860"
- :company/website "https://www.orlen.pl/pl"}
+ :company/jurisdiction "PL"
+ :company/legal-name-transliterated "ORLEN SPOLKA AKCYJNA"
+ :company/website "https://www.orlen.pl/pl"
+ :company/inquiry-form-url "https://www.orlen.pl/pl/kontakt/dla-biznesu"}
